@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Nicolás Palopoli
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nicolás
+last_name: Palopoli
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤗
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,160 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher, Educator, co-Executive Director
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: MetaDocencia
+    url: https://www.metadocencia.org/
+  - name: CONICET
+    url: https://www.conicet.gov.ar/
+  - name: OpeUniversidad Nacional de QuilmesnAI
+    url: https://www.unq.edu.ar/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nicopalo@gmail.com'
     label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:npalopoli@metadocencia.org'
+    label: E-mail Me Here Too
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/npalopoli
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/npalopoli
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/npalopoli/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=WBHEne0AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-7925-6436
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Protein structure, interactions and evolution
+  - Computational Biology
+  - Open Science
+  - Education
+  - Community building
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Doctor (PhD) in Basic and Applied Sciences
+    institution: Universidad Nacional de Quilmes
+    date_start: 2006-08-16
+    date_end: 2011-11-29
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis: “Development of an evolutionary-based method for protein tertiary structure validation and its application to starch synthase characterization”. Supervisor: Dr. Gustavo Parisi, UNQ. Co-supervisor: Dr. Diego Gómez Casati, Universidad Nacional de San Martín (UNSAM), Argentina.
+  - area: Licenciado (University degree) in Biotechnology
+    institution: Universidad Nacional de Quilmes
+    date_start: 2001-03-01
+    date_end: 2005-12-20
     summary: |
-      GPA: 3.8/4.0
+      GPA: 9.23/10
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis: “Protein native structure recognition using a structurally based evolution model”. Advisor: Dr. Gustavo Parisi.
+  - area: Specialist in Teaching in Virtual Environments
+    institution: Universidad Nacional de Quilmes
+    date_start: 2021-08-01
+    date_end: ''
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis pending.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Tenured Associate/Adjunct Researcher
+    company_name: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
+    company_url: https://www.conicet.gov.ar/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2015-05-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+     -  Project leader at Structural Bioinformatics Group, Departamento de Ciencia y Tecnología, UNQ) Group Leader: Dr. G. Parisi.
+      - Main topic: Structural analysis of protein-protein interactions mediated by short linear motifs
+      - Director of 2 grants from Ministerio de Ciencia, Tecnología e Innovación of Argentina (MinCyT). Co-director of 1 grant from UNQ. Researcher in 2 grants from CONICET and 2 from Horizon 2020 MSCA-RISE by the European Union.
+      - Director/co-director of 4 undergraduate thesis, 1 master thesis, 3 PhD candidates, and 2 postdoctoral researchers.
+  - position: Co-Executive Director
+    company_name: MetaDocencia
+    company_url: https://www.metadocencia.org/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-03-14
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      A non-profit community that builds scientific and technical capacities in Latin America by co-developing networks, active learning spaces, and accessible resources.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Skills
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+      - name: R
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
+      - name: bash scipting
+        description: ''
+        percent: 40
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Family
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: person-simple-walk
+      - name: Football
         description: ''
         percent: 80
+        icon: ball
+      - name: Basketball
+        description: ''
+        percent: 80
+        icon: ball
+      - name: Reading
+        description: ''
+        percent: 60
+        icon: book
+      - name: Photography
+        description: ''
+        percent: 40
         icon: camera
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: English
+    percent: 80
   - name: Portuguese
-    percent: 25
+    percent: 20
+  - name: Italian
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Open Science Badge earned by completing Open Science 101.
+    url: https://www.credly.com/badges/75806c05-6771-46e9-94ac-4b6a2c3b53f5/public_url
+    date: '2024-02-21'
+    awarder: NASA’s Transform to Open Science initiative
+    icon: ''
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      ''
+  - title: Certified Trainer and Instructor
+    url: https://carpentries.org/community/instructor-trainers/
+    date: '2018-01-01'
+    awarder: The Carpentries
+    icon: ''
+    summary: ''
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a tenured researcher in Computational Biology, studying protein structure, interactions, and evolution. 'm an Open Science learner and advocate. I'm also an educator, specialized in active and evidence-based practices for teaching. I lead workgroups guided by empathy, mentoring, and collaboration.
+
+Essentially, I like people, I like knowledge and I love to help people know more.
