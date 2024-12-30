@@ -77,8 +77,7 @@ education:
     institution: Universidad Nacional de Quilmes
     date_start: 2021-08-01
     date_end: ''
-    summary: |
-      Thesis pending.
+    summary: Thesis pending.
 work:
   - position: Tenured Associate/Adjunct Researcher
     company_name: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
