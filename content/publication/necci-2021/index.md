@@ -1,0 +1,111 @@
+---
+title: Critical assessment of protein intrinsic disorder prediction
+authors:
+- Marco Necci
+- Damiano Piovesan
+- Md Tamjidul Hoque
+- Ian Walsh
+- Sumaiya Iqbal
+- Michele Vendruscolo
+- Pietro Sormanni
+- Chen Wang
+- Daniele Raimondi
+- Ronesh Sharma
+- Yaoqi Zhou
+- Thomas Litfin
+- Oxana Valerianovna Galzitskaya
+- Michail Yu. Lobanov
+- Wim Vranken
+- Björn Wallner
+- Claudio Mirabello
+- Nawar Malhis
+- Zsuzsanna Dosztányi
+- Gábor Erdős
+- Bálint Mészáros
+- Jianzhao Gao
+- Kui Wang
+- Gang Hu
+- Zhonghua Wu
+- Alok Sharma
+- Jack Hanson
+- Kuldip Paliwal
+- Isabelle Callebaut
+- Tristan Bitard-Feildel
+- Gabriele Orlando
+- Zhenling Peng
+- Jinbo Xu
+- Sheng Wang
+- David T. Jones
+- Domenico Cozzetto
+- Fanchi Meng
+- Jing Yan
+- Jörg Gsponer
+- Jianlin Cheng
+- Tianqi Wu
+- Lukasz Kurgan
+- Vasilis J. Promponas
+- Stella Tamana
+- Cristina Marino-Buslje
+- Elizabeth Martínez-Pérez
+- Anastasia Chasapi
+- Christos Ouzounis
+- A. Keith Dunker
+- Andrey V. Kajava
+- Jeremy Y. Leclercq
+- Burcu Aykac-Fas
+- Matteo Lambrughi
+- Emiliano Maiani
+- Elena Papaleo
+- Lucia Beatriz Chemes
+- Lucía Álvarez
+- Nicolás S. González-Foutel
+- Valentin Iglesias
+- Jordi Pujols
+- Salvador Ventura
+- Nicolás Palopoli
+- Guillermo Ignacio Benítez
+- Gustavo Parisi
+- Claudio Bassot
+- Arne Elofsson
+- Sudha Govindarajan
+- John Lamb
+- Marco Salvatore
+- András Hatos
+- Alexander Miguel Monzon
+- Martina Bevilacqua
+- Ivan Mičetić
+- Giovanni Minervini
+- Lisanna Paladin
+- Federica Quaglia
+- Emanuela Leonardi
+- Norman Davey
+- Tamas Horvath
+- Orsolya Panna Kovacs
+- Nikoletta Murvai
+- Rita Pancsa
+- Eva Schad
+- Beata Szabo
+- Agnes Tantos
+- Sandra Macedo-Ribeiro
+- Jose Antonio Manso
+- Pedro José Barbosa Pereira
+- Radoslav Davidović
+- Nevena Veljkovic
+- Borbála Hajdu-Soltész
+- Mátyás Pajkos
+- Tamás Szaniszló
+- Mainak Guharoy
+- Tamas Lazar
+- Mauricio Macossay-Castillo
+- Peter Tompa
+- Silvio C. E. Tosatto
+date: '2021-04-01'
+publishDate: '2024-12-30T23:36:09.943458Z'
+publication_types:
+- article-journal
+publication: '*Nature Methods*'
+doi: 10.1038/s41592-021-01117-3
+links:
+- name: URL
+  url: http://dx.doi.org/10.1038/s41592-021-01117-3
+---
