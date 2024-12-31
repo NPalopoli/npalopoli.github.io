@@ -28,7 +28,7 @@ organizations:
     url: https://www.metadocencia.org/
   - name: CONICET
     url: https://www.conicet.gov.ar/
-  - name: OpeUniversidad Nacional de QuilmesnAI
+  - name: Universidad Nacional de Quilmesn
     url: https://www.unq.edu.ar/
 
 # Social network links
@@ -73,11 +73,11 @@ education:
       GPA: 9.23/10
 
       Thesis: “Protein native structure recognition using a structurally based evolution model”. Advisor: Dr. Gustavo Parisi.
-  - area: Specialist in Teaching in Virtual Environments
+  - area: Specialist in Teaching in Virtual Environments (pending)
     institution: Universidad Nacional de Quilmes
     date_start: 2021-08-01
     date_end: ''
-    summary: Thesis pending.
+    summary: Thesis expected in 2025.
 
 work:
   - position: Tenured Adjunct Researcher
