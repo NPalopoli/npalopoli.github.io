@@ -117,6 +117,10 @@ skills:
         description: ''
         percent: 40
         icon: code-bracket
+      - name: git
+        description: ''
+        percent: 60
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -125,13 +129,13 @@ skills:
         description: ''
         percent: 100
         icon: person-simple-walk
-      - name: Football
+      - name: Sports
         description: ''
         percent: 80
         icon: ball
-      - name: Basketball
+      - name: Movies
         description: ''
-        percent: 80
+        percent: 60
         icon: ball
       - name: Reading
         description: ''
@@ -153,16 +157,16 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Open Science Badge earned by completing Open Science 101.
+  - title: Open Science Badge
     url: https://www.credly.com/badges/75806c05-6771-46e9-94ac-4b6a2c3b53f5/public_url
     date: '2024-02-21'
     awarder: NASA’s Transform to Open Science initiative
     icon: ''
     summary: |
-      ''
+      Earned by completing Open Science 101
   - title: Certified Trainer and Instructor
     url: https://carpentries.org/community/instructor-trainers/
-    date: '2018-01-01'
+    date: '2018-12-20'
     awarder: The Carpentries
     icon: ''
     summary: ''
