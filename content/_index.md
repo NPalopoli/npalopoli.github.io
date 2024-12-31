@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Nico Palopoli
+title: ""
 date: 2024-12-30
 type: landing
 
