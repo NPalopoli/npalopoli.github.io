@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher, Educator, co-Executive Director
+role: Community co-Director, Researcher, Educator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -113,7 +113,7 @@ skills:
         description: ''
         percent: 40
         icon: code-bracket
-      - name: bash scipting
+      - name: Bash scripting
         description: ''
         percent: 40
         icon: code-bracket
@@ -136,11 +136,7 @@ skills:
       - name: Reading
         description: ''
         percent: 60
-        icon: book
-      - name: Photography
-        description: ''
-        percent: 40
-        icon: camera
+        icon: ph:armchair
 
 languages:
   - name: Spanish
