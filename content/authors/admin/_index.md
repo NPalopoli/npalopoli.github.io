@@ -174,6 +174,6 @@ awards:
 
 ## About Me
 
-I'm a tenured researcher in Computational Biology, studying protein structure, interactions, and evolution. 'm an Open Science learner and advocate. I'm also an educator, specialized in active and evidence-based practices for teaching. I lead workgroups guided by empathy, mentoring, and collaboration.
+I'm a tenured researcher in Computational Biology, studying protein structure, interactions, and evolution. I'm an Open Science learner and advocate. I'm also an educator, specialized in active and evidence-based practices for teaching. I lead workgroups guided by empathy, mentoring, and collaboration.
 
 Essentially, I like people, I like knowledge and I love to help people know more.
