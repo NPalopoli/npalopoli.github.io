@@ -24,7 +24,8 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          #filename: stacked-peaks.svg
+          filename: heidel_air.jpg
           filters:
             brightness: 1.0
           size: cover
