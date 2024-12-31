@@ -136,7 +136,7 @@ skills:
       - name: Reading
         description: ''
         percent: 60
-        icon: ph:armchair
+        icon: armchair
 
 languages:
   - name: Spanish
