@@ -80,7 +80,7 @@ education:
     summary: Thesis pending.
 
 work:
-  - position: Tenured Associate/Adjunct Researcher
+  - position: Tenured Adjunct Researcher
     company_name: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
     company_url: https://www.conicet.gov.ar/
     company_logo: ''
@@ -88,9 +88,9 @@ work:
     date_end: ''
     summary: |2-
      -  Project leader at Structural Bioinformatics Group, Departamento de Ciencia y Tecnología, UNQ) Group Leader: Dr. G. Parisi.
-      - Main topic: Structural analysis of protein-protein interactions mediated by short linear motifs
-      - Director of 2 grants from Ministerio de Ciencia, Tecnología e Innovación of Argentina (MinCyT). Co-director of 1 grant from UNQ. Researcher in 2 grants from CONICET and 2 from Horizon 2020 MSCA-RISE by the European Union.
-      - Director/co-director of 4 undergraduate thesis, 1 master thesis, 3 PhD candidates, and 2 postdoctoral researchers.
+     - Main topic: Structural analysis of protein-protein interactions mediated by short linear motifs
+     - Director of 2 grants from Ministerio de Ciencia, Tecnología e Innovación of Argentina (MinCyT). Co-director of 1 grant from UNQ. Researcher in 2 grants from CONICET and 2 from Horizon 2020 MSCA-RISE by the European Union.
+     - Director/co-director of 4 undergraduate thesis, 1 master thesis, 3 PhD candidates, and 2 postdoctoral researchers.
   - position: Co-Executive Director
     company_name: MetaDocencia
     company_url: https://www.metadocencia.org/
