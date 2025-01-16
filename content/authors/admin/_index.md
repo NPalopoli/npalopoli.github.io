@@ -28,7 +28,7 @@ organizations:
     url: https://www.metadocencia.org/
   - name: CONICET
     url: https://www.conicet.gov.ar/
-  - name: Universidad Nacional de Quilmesn
+  - name: Universidad Nacional de Quilmes
     url: https://www.unq.edu.ar/
 
 # Social network links
